@@ -1,0 +1,2 @@
+# SplitCost
+Practice with C
